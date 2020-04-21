@@ -1,0 +1,7 @@
+{
+  "projects": {
+    "web": "git@github.com:etc-tiago/meta-monorepo-demo.git",
+    "apis/graphql": "git@github.com:etc-tiago/meta-monorepo-demo.git",
+    "apis/sql": "git@github.com:etc-tiago/meta-monorepo-demo.git"
+  }
+}
