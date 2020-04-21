@@ -2,3 +2,5 @@ node_modules
 /web/
 /apis/graphql/
 /apis/sql/
+/packages/object-helper/
+/packages/only-numbers/

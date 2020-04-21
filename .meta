@@ -2,6 +2,8 @@
   "projects": {
     "web": "git@github.com:etc-tiago/meta-monorepo-demo.git",
     "apis/graphql": "git@github.com:etc-tiago/meta-monorepo-demo.git",
-    "apis/sql": "git@github.com:etc-tiago/meta-monorepo-demo.git"
+    "apis/sql": "git@github.com:etc-tiago/meta-monorepo-demo.git",
+    "packages/object-helper": "git@github.com:etc-tiago/meta-monorepo-demo.git",
+    "packages/only-numbers": "git@github.com:etc-tiago/meta-monorepo-demo.git"
   }
 }
