@@ -1,0 +1,9 @@
+{
+  "name": "meta-demo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "meta": "^2.2.12"
+  }
+}
